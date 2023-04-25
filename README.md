@@ -10,7 +10,28 @@ Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formaci
 
 Mi objetivo principal es el poder seguir aprendiendo cada dia y mejorando profesionalmente
 
+# ¿Qué tecnologías uso?
+El bootcamp de Henry me ha permitido adquirir el conocimiento en las siguientes tecnologías:
 
++ Javascript
++ React.js
++ Node.ks
++ Express.js
++ PostgreSQL
++ Sequelize
++ Git
++ JWT
++ Auth0
++ Tailwind 
+Entre otras herramientas, también tengo conocimiento en Figma para el diseño visual de material
+
+# No dudes en contactarme!
+
+Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas
+
+
+
+https://www.linkedin.com/in/fabian-ignacio-torres-maldonado-326216188/
 
 
 
