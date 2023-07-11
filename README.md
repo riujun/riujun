@@ -15,7 +15,9 @@ El bootcamp de Henry me ha permitido adquirir el conocimiento en las siguientes 
 
 + Javascript
 + React.js
-+ Node.ks
++ Node.js
++ Nest.js
++ Mongodb
 + Express.js
 + PostgreSQL
 + Sequelize
