@@ -33,7 +33,7 @@ Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas
 
 
 
-https://www.linkedin.com/in/fabian-ignacio-torres-maldonado-326216188/
+https://www.linkedin.com/in/fabiánignaciotorres/
 Correo: fabianignacio.tmfull@gmail.com
 
 
