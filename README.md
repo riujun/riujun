@@ -14,6 +14,7 @@ Mi objetivo principal es el poder seguir aprendiendo cada dia y mejorando profes
 El bootcamp de Henry me ha permitido adquirir el conocimiento en las siguientes tecnologías:
 
 + Javascript
++ TypeScript
 + React.js
 + Node.js
 + Nest.js
